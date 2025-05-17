@@ -29,7 +29,7 @@ A modern take on the classic Hangman game built with React! Guess the hidden wor
 
 ## 📸 Demo
 
-![assembly endgame demo](public\screenshot.png) <!-- Optional: Replace with your actual image or remove this section -->
+![assembly endgame demo](screenshot.png) <!-- Optional: Replace with your actual image or remove this section -->
 
 ## 🧪 How to Run Locally
 
